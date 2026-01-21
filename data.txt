@@ -1,0 +1,31 @@
+Miles Davis;So What;Kind of Blue;1959;9:22;2400000
+Miles Davis;Freddie Freeloader;Kind of Blue;1959;9:46;1800000
+Miles Davis;All Blues;Kind of Blue;1959;11:33;2000000
+John Coltrane;My Favorite Things;My Favorite Things;1961;13:41;2200000
+John Coltrane;Naima;Giant Steps;1960;4:21;1700000
+
+
+John Coltrane;Resolution;A Love Supreme;1965;7:20;1900000
+Bill Evans;Waltz for Debby;Waltz for Debby;1961;6:58;1600000
+
+Bill Evans;My Foolish Heart;Waltz for Debby;1961;4:57;1300000
+Miles Davis;Blue in Green;Kind of Blue;1959;5:37;1600000
+Bill Evans;Peace Piece;Everybody Digs Bill Evans;1958;6:42;1200000
+Bill Evans;Blue in Green;Portrait in Jazz;1960;5:28;1500000
+Bill Evans;Autumn Leaves;Portrait in Jazz;1960;5:22;1400000
+Ella Fitzgerald;Misty;Ella Fitzgerald Sings the Johnny Mercer Song Book;1964;3:05;1500000
+Louis Armstrong;What a Wonderful World;Single;1967;2:21;3000000
+Louis Armstrong;La Vie En Rose;Satchmo Serenades;1950;3:32;2000000
+John Coltrane;Equinox;Coltrane's Sound;1964;7:31;1400000
+Louis Armstrong;Hello, Dolly!;Hello, Dolly!;1964;2:25;1800000
+Louis Armstrong;Summertime;Porgy and Bess;1958;4:58;1700000
+John Coltrane;Giant Steps;Giant Steps;1960;4:47;2100000
+Louis Armstrong;St. James Infirmary;Single;1928;3:09;1600000
+
+Ella Fitzgerald;Summertime;Porgy and Bess;1958;4:45;2100000
+
+Ella Fitzgerald;Cheek to Cheek;Ella and Louis;1956;5:54;1700000
+
+Ella Fitzgerald;Dream a Little Dream of Me;Ella Fitzgerald Sings the Harold Arlen Song Book;1961;3:23;1600000
+Ella Fitzgerald;Someone to Watch Over Me;Ella Fitzgerald Sings the George and Ira Gershwin Song Book;1959;4:29;1400000
+Miles Davis;Flamenco Sketches;Kind of Blue;1959;9:26;1500000
